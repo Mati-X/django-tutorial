@@ -1,8 +1,8 @@
 # django-tutorial
 Best Django Project Ever
-> Flawless Css
+> Flawless Css 😎😎
 
-> Fast
+> Fast 🔥🔥
 
-> Irreplaceable
+> Irreplaceable 👌👌
 https://docs.djangoproject.com/en/4.1/intro/tutorial01/
