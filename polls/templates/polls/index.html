@@ -8,6 +8,9 @@
 <link rel="stylesheet" href="{% static 'polls/style.css' %}">
 </head>
 <body>
+{% block branding %}
+<h3 id="site-name"><a href="{% url 'admin:index' %}">Polls Administration</a></h3>
+{% endblock %}
 {% if latest_question_list %}
     <ul>
     {% for question in latest_question_list %}
